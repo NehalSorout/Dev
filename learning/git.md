@@ -43,3 +43,13 @@ git branch -a
 // pull changes from remote
 git push
 `
+## Pull
+`
+// pull changes from remote
+git push
+`
+## Merge
+`
+// Merge changes from other branch to current branch
+git merge <branch-name>
+`
