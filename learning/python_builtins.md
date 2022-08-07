@@ -1,0 +1,1 @@
+isinstance(obj, Class) -> return True if obj is instance of Class
