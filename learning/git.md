@@ -1,4 +1,4 @@
-# Git commands
+# Git tutorial
 
 ## Checkout
 `
@@ -35,11 +35,23 @@ git status
 git branch
 // check branches with verbose
 git branch -vv
-// check all branches
+// check all local branches
 git branch -a
+// check all remote branches
+git branch -r
 `
 ## Pull
 `
 // pull changes from remote
 git push
+`
+## Fetch
+`
+// fetch changes from remote
+git fetch
+`
+## Merge
+`
+// Merge changes from other branch to current branch
+git merge <branch-name>
 `
